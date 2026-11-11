@@ -1,1 +1,3 @@
-
+{
+  "DEBUT": { "coins": 500, "tickets": 2, "title": "Day One", "tier": 2, "expires": "2026-12-31" }
+}
