@@ -1,3 +1,5 @@
 {
-  "DEBUT": { "coins": 500, "tickets": 2, "title": "Day One", "tier": 2, "expires": "2026-12-31" }
+  "KPOP":   { "coins": 500, "tickets": 2,                  "expires": "2026-11-26T23:59" },
+  "DEBUT":  { "coins": 250, "upgrades": 1,                 "expires": "2026-11-26T23:59" },
+  "DAYONE": { "title": "Day One", "tier": 2, "coins": 300, "expires": "2026-11-26T23:59" }
 }
