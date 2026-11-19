@@ -4,5 +4,5 @@
   "DAYONE": { "title": "Day One", "tier": 2, "coins": 300, "expires": "2026-11-26T23:59" },
   "GIFTED":      { "coins": 300, "tickets": 1,                  "expires": "2026-11-27T23:59" },
   "BOOSTED":     { "coinsboost": 30, "xpboost": 30,             "expires": "2026-11-27T23:59" },
-  "GHOSTHUNTER": { "title": "Ghost Hunter", "tier": 2, "coins": 200, "expires": "2026-11-27T23:59" }
+  "5KVISITS":    { "coins": 500, "tickets": 5, "upgrades": 5,                 "expires": "2026-11-27T23:59" }
 }
