@@ -1,5 +1,8 @@
 {
   "KPOP":   { "coins": 500, "tickets": 2,                  "expires": "2026-11-26T23:59" },
   "DEBUT":  { "coins": 250, "upgrades": 1,                 "expires": "2026-11-26T23:59" },
-  "DAYONE": { "title": "Day One", "tier": 2, "coins": 300, "expires": "2026-11-26T23:59" }
+  "DAYONE": { "title": "Day One", "tier": 2, "coins": 300, "expires": "2026-11-26T23:59" },
+  "GIFTED":      { "coins": 300, "tickets": 1,                  "expires": "2026-11-27T23:59" },
+  "BOOSTED":     { "coinsboost": 30, "xpboost": 30,             "expires": "2026-11-27T23:59" },
+  "GHOSTHUNTER": { "title": "Ghost Hunter", "tier": 2, "coins": 200, "expires": "2026-11-27T23:59" }
 }
